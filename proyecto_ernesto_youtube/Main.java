@@ -8,6 +8,7 @@ public class Main {
         ventanaBienvenida.setBounds(0, 0, 350, 450);
         ventanaBienvenida.setVisible(true);
         ventanaBienvenida.setLocationRelativeTo(null);
+        System.out.println("Hola mundo");
 
         // Licencia ventanaLicencia = new Licencia();
 
